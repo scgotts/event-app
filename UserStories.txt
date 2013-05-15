@@ -1,0 +1,11 @@
+I want to be able to create an event
+I want to be able to add event description
+I want to be able to add participants to an event
+I want to be able to create categories for an event
+I want to be able to add an item to a category
+I want to be able to assign an item to a person
+I want to be able to see the items in my checklist
+I want to be able to see the items I need to buy and which I already own
+I want to be able to print my checklist
+I want to be able to print the whole checklist
+I want to be able to see who is bringing what
